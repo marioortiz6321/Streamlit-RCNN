@@ -1,0 +1,7 @@
+Receipt
+pizza: $20000.00
+pizza: $20000.00
+hamburguesa: $7500.00
+hot dog: $10000.00
+donut: $4500.00
+Total: $62000.00
